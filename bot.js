@@ -4,9 +4,9 @@ const client = new Discord.Client();
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("704075789242597476")
+let channel =     client.channels.get("710594973162143794")
 setInterval(function() {
-channel.send(`يجدعان انا يوسف يوسف وصل`);
+channel.send(`احا الشبشب ضاع`);
 }, 30)
 })
 
